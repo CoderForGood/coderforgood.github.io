@@ -43,9 +43,9 @@ It is also generally held as true in the tech industry that if a software engine
 
 In America, breaking labor compliance laws from one state over its state lines, or from other countries over the phone, is a severe Compliance issue.
 
-HR professionals don't like the compliance rules they have to follow, and they will often claim to be ignorant of them as an excuse for violating them.
+Opinion: HR professionals don't like the compliance rules they have to follow, and they will often claim to be ignorant of them as an excuse for violating them. If you ever hear a hiring person on the phone say that they have never heard of one of these laws, then they are either very inexperienced or are explicitly lying to you, and you will probably be able to hear that in their voice as they say it.
 
-This page exists so that you have something to link to, so that you can educate them when they play dumb.
+This page exists so that you have something to link to, so that you can educate them.
 
 # The 50 States in the USA
 
