@@ -1,0 +1,98 @@
+<!-- includes/head-custom.html start -->
+
+<script>
+/*
+ * This file is intentionally not minimized as that makes it very hard to learn from with a screen reader.
+ * Github refuses to provide the accessability to the blind that they want.
+ */
+ 
+/*
+ * Not every browser is sane.
+ *
+ * Lets assure we have String.Prototype.includes and patch it as needed.
+ */
+if (!String.prototype.includes) {
+  String.prototype.includes = function(search, start) {
+    'use strict';
+    if (typeof start !== 'number') {
+      start = 0;
+    }
+
+    if (start + search.length > this.length) {
+      return false;
+    } else {
+      return this.indexOf(search, start) !== -1;
+    }
+  };
+}
+
+/*
+ * Add raw code to DOM from remote CDN...
+ * Triggers a callback when the script is loaded into the DOM and can be used.
+ * Appends child node on location used.
+ */
+var loadCode = function(url, callback, location){
+    var scriptTag = document.createElement('script');
+
+    scriptTag.src = url;
+
+    scriptTag.onload = callback;
+    scriptTag.onreadystatechange = callback;
+
+    console.log('Injecting script tag: '+ scriptTag.src);
+
+    location.appendChild(scriptTag);
+};
+
+/*
+ * This code is a hack that can only be fixed by GitHub on the server side in the default GitHub Pages rendering pipeline.
+ */
+function do_mermaids_exist() {
+	// We cant check the body here.
+	
+	return true; // I want to believe.
+}
+
+/*
+ * Initialize MermaidJS by manually adding an event listener.
+ *
+ * This runs after the script loads and watches for the page to load so it will render.
+ */
+var initMermaidJS = function() {
+	console.log('DOM fully loaded.');
+
+	// The default GH-Pages render pipeline corrupts our tags.
+	// So we manually look for the corrupted tags and inject the correct class.
+	document.querySelectorAll("pre.mermaid, pre>code.language-mermaid").forEach( element => {
+	if (element.tagName === "CODE"){
+		element = element.parentElement;
+	}
+	
+	console.log('Detected broken GitHub Pages mermaid tag. Updating DOM to inject parent mermaid classed div.');
+	
+	element.outerHTML = `<div class="mermaid">${element.textContent}</div>`;
+	});
+
+	console.log('Attempting mermaidJS initialization.');
+
+	// Standard Mermaid Initialization.
+	mermaid.initialize({ startOnLoad:true, theme: 'dark', htmlLabels: false, securityLevel: 'loose' });
+
+	console.log('End attempt at mermaidJS initialization.');
+}
+
+/*
+ * If mermaids are bound by a DOM...
+ */
+if( do_mermaids_exist() ) {
+	var head = document.getElementsByTagName('head')[0];
+
+    /*
+     * ... inject the mermaid library and trigger initialization to ask them to build the diagrams.
+     */
+	loadCode('https://unpkg.com/mermaid@9.1.2/dist/mermaid.min.js', initMermaidJS, head);
+}
+
+</script>
+
+<!-- includes/head-custom.html end -->

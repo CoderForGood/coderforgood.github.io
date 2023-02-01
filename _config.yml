@@ -1,0 +1,12 @@
+title: coderforgood.github.io
+github_username:  coderforgood
+description: coderforgood.github.io
+theme: jekyll-theme-hacker
+baseurl: ""
+url: ""
+plugins:
+  - jekyll-feed
+  - jekyll-optional-front-matter 
+exclude:
+  - .env
+  - .gitignore
