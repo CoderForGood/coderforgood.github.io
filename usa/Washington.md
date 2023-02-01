@@ -1,6 +1,12 @@
-# Washington State Overall is a great state for Software Engineers to Live and Work.
+# Washington is a great state for Software Engineers to Live and Work.
 
-Washington state is a very good state for software development engineers to live in.
+Washington state is a very good state for software development engineers to live in and work from.
+
+
+# Washington state has a thriving tech hub.
+Washington state also sees growing its own tech sector as part of its own growth.
+
+This is largely in part because of the large tech hub composed of the Seattle, Tacoma, and Redmond Triangle, As the state has learned over time that it is in its own best interests to promote the fair hiring of software engineers to assure healthy tech companies that employ them fairly and ethically, in a sustainable way.
 
 ## Washington state is a two party consent state.
 
@@ -11,7 +17,6 @@ Washington law makes it explicitly illegal to record others without their consen
 It is explicity illegal for any "Labor Agent" (Thats *anybody* in HR or hiring/staffing/recruiting roles of any kind, including sourcing or third parties) to lie, misrepresent, or intentionally hide data about a job as in WA state as its considerd to be a form of fruad so much that the law itself uses that explicit word in its title, and you can find that law at [https://app.leg.wa.gov/rcw/default.aspx?cite=49.44.050](https://app.leg.wa.gov/rcw/default.aspx?cite=49.44.050).
 
 So if you feel like you've been bait and switched, and you're in Washington state, then chances are that law might have been (and probably was, in our humble opinion) violated.
-
 
 ## Washington state has a strict pay transparency law that is in effect in *any* online post or communication.
 
@@ -25,6 +30,10 @@ So this is the law that has made offshore recruiters contacting people in Washin
 
 As a result of not working with the hiring manager directly, they just wont have the information they are legally required to present to candidates when they contact them. And as a result, these offshore companies are not legally allowed to operate within Washington, because doing so violates the pay transparency law when the hiring agent does not have this data to present to the candidate.
 
+## Washington state makes it explicitly illegal for companies to ask for or access your social media.
+
+Washington state has explicitly made it illegal for employers to ask to access your social media. It doesn't matter what the company wants to claim. There is no such thing as a company policy that allows this. You can find that law at [https://apps.leg.wa.gov/rcw/default.aspx?cite=49.44.200](https://apps.leg.wa.gov/rcw/default.aspx?cite=49.44.2000) Where it explicitly states that they cannot ask you to edit/remove/add posts, or even access your posts.And if they ask for your social media password, that is also explicitly illegal. If your boss accesses your social media without your consent, or steals your password, talk to a lawyer.
+
 ## Notes
 
-Intelligent readers will notice that RCW 49.58.110 leverages RCW 49.44.050, and that is intentional. The second law that makes misrepresentation illegal has been on the books in WA since the 1970s, and is very settled law as far as is currently understood. As a result, it has affected the other employment laws of Washington.
+Intelligent readers will notice that many of these laws leverage RCW 49.44.050, and that is intentional. This law that makes misrepresentation illegal has been on the books in WA since the 1970s, and is very settled law as far as is currently understood.
