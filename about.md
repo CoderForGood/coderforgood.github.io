@@ -12,7 +12,7 @@ I want to build that future. Will you help us, please?
 flowchart LR
 
 Hope --> Idea
-Idea --> github.com
-github.com --> You
+Idea --> coderforgood.github.io
+coderforgood.github.io --> You
 ```
 
