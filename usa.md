@@ -15,7 +15,7 @@ This is because of the 10th amendment of the Constitution of the United States i
 
 It is generally accepted that you should follow the laws of the state that you are physically located in, or claim to be located in, just as you should always follow the laws of the country you find yourself in.
 
-For states in America, These laws are traditionally created by the courts sovereign power to pass its own laws but it's important to remember that any rule the federal government makes supersedes any rule that any state individually makes, in every case, Because that's how the American government works. This is why the 10th Amendment of the Constitution of the United States says that anything the government is not involved in is covered by the states, because it's explicitly granting federal courts priority over states rights, which means that when you're hiring, you have to deal with federal law, no matter what state you're hiring in.
+For states in America, the 10th Amendment of the Constitution of the United States says that anything the federal government is not involved in is covered by the states, which means that when you're hiring, you have to deal with federal law, no matter what state you're hiring in.
 
 1. Minimal Wage. The minimum wage laws protect you from being paid too little, but they also protect you in the interview process from doing unpaid work.
 
