@@ -14,7 +14,7 @@ Washington law makes it explicitly illegal to record others without their consen
 
 ## Washington state makes it illegal to lie - even by ommission - if you work in recruiting, staffing, or HR.
 
-It is explicity illegal for any "Labor Agent" (Thats *anybody* in HR or hiring/staffing/recruiting roles of any kind, including sourcing or third parties) to lie, misrepresent, or intentionally hide data about a job as in WA state as its considerd to be a form of fruad so much that the law itself uses that explicit word in its title, and you can find that law at [https://app.leg.wa.gov/rcw/default.aspx?cite=49.44.050](https://app.leg.wa.gov/rcw/default.aspx?cite=49.44.050).
+It is explicity illegal for any "Labor Agent" (Thats *anybody* in HR or hiring/staffing/recruiting roles of any kind, including sourcing or third parties) to lie, misrepresent, or intentionally hide data about a job. The law itself uses the word "Fraud" in its title, and you can find that law at [https://app.leg.wa.gov/rcw/default.aspx?cite=49.44.050](https://app.leg.wa.gov/rcw/default.aspx?cite=49.44.050).
 
 So if you feel like you've been bait and switched, and you're in Washington state, then chances are that law might have been (and probably was, in our humble opinion) violated.
 
