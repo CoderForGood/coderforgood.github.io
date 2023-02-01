@@ -16,3 +16,16 @@ Idea --> coderforgood.github.io
 coderforgood.github.io --> You
 ```
 
+# Important Legal Note
+
+Most of the people working on this project will not be lawyers, so you should assume that nobody working on this is an actual lawyer in any way, unless they have the credentials and explicitly call themselves out as explicitly being an actual lawyer who is registered in their state.
+
+The rest of us are are just going to be random people from the Internet with an interest in software and fair hiring practices.
+
+We also acknowledge that a lawyer can work in a state they're not registered in by working "pro hac vice" if the court allows it. But we also acknowledge that this concept - and the related legal education needed to gain this knowledge without reading this page first - is simply too advanced for most individuals as they would not be unaffected or unchanged by surviving a class on Torts, and so we intentionally attempt to stay away from such concepts here in order to not confuse people in our attempt to simplify the search for data on individual rights, as we are NOT giving legal advice, mearly showing links to the law itself while formatting the available data in a way that is easily discoverable by the blind or others who simply might have accessibility issues that keep them from being able to freely search for this information in other ways.
+
+This project was created as a public service with no profit motive, to help people find enjoyable and self sustaining work at companies that will not abuse them or what they build to do harm. As a result, we have intentionally simplified things and kept some data out of this document simply to try to keep to the ideal that we should not present ourselves as lawyers when we are not. We have limited our own opinion greatly in an effirt to be fair and balanced, while maintaining a data driven curiosity to find the truth.
+
+That stated, You should speak with a lawyer and get legal counsel for your state and country before sueing or reporting companies for any abuse you feel they do, as false reports are taken very seriussly. Please protect your ability to report people for doing bad things, and make sure that you try to understand everything as much as possible, befire acting in a manner that we would consider to be dumb or foolish.
+
+However, if you do not have these options available to you, it is our hope that these reference links will provide you a path to do your own research, and make sure that you have online links available to to share with others as a way to educate and defend yourself from unjust abuse by others who seek to violate the rights your state has chosen for themselves.
