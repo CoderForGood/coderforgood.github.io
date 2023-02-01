@@ -1,4 +1,4 @@
-# Washington is a great state for Software Engineers to Live and Work.
+# Washington is a great state for Software Engineers.
 
 Washington state is a very good state for software development engineers to live in and work from.
 
