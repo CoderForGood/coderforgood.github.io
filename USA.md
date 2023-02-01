@@ -1,3 +1,6 @@
-# You see an empty beach.  No Mermaids.
+# USA
 
-The beach stretches out into the horizon, but its empt. You only have the waves and the birds for company.
+If you are an American citizen or have a green card in the United States of America, you have rights.
+
+In addition, the state that you live in may give you additional rights.
+
