@@ -17,19 +17,19 @@ It is generally accepted that you should follow the laws of the state that you a
 
 For states in America, the 10th Amendment of the Constitution of the United States says that anything the federal government is not involved in is covered by the states, which means that when you're hiring, you have to deal with federal law, no matter what state you're hiring in.
 
-1. Minimal Wage. The minimum wage laws protect you from being paid too little, but they also protect you in the interview process from doing unpaid work.
+### Minimal Wage. The minimum wage laws protect you from being paid too little, but they also protect you in the interview process from doing unpaid work.
 
 For example, it's generally accepted as illegal for a company to ask for a free unpaid project of any kind as part of an interview loop, because it violates federal minimum wage laws. But chances are, you applied to that job because it doesn't pay minimum wage, and you probably used your states pay transparency law to validate that before you even applied so you knew you were not wasting your time. So if you're not going to work for minimum wage, why would you do the work for free? Don't let people abuse you.
 
-2. American companies are required to follow human rights laws under the federal laws that bind the USA to international agreements enforcing them.
+### American companies are required to follow human rights laws under the federal laws that bind the USA to international agreements enforcing them.
 
 The World Health Organization has explicitly stated that working over 55 hours a week is harmful to your health. [https://www.who.int/news/item/17-05-2021-long-working-hours-increasing-deaths-from-heart-disease-and-stroke-who-ilo](https://www.who.int/news/item/17-05-2021-long-working-hours-increasing-deaths-from-heart-disease-and-stroke-who-ilo) so if you are working over 55 hours a week, It's possible that your employer is abusing you under human rights laws and is not aware of it. In the best case companies often have you work long hours, simply because they don't have other people, but they don't prioritize hiring other people because they're not aware that they're doing something bad. In other cases, companies prioritize keeping teams lean as a cost cutting measure in violation of these human rights laws.
 
-3. In general, you should be as data driven as possible.
+### In general, you should be as data driven as possible.
 
 As an engineer, you should be experienced enough in system design to be aware that any system or process that cannot be maintained with the resources granted to it will simply fail eventually Once the consumption of that resource interrupts the value engine that drives the system. The same is true of companies that under-staff. If you're working over 55 hours a week, then your team is critically understaffed and the business is simply not viable if it cannot afford to hire new people to ease that labor burden. It is thus logical and rational to accept that if you find yourself at a company that is intentionally overworking you and is also actively refusing to hire more people to ease the burden on your team, that your best option is to find a better job somewhere else.
 
-4. Work as an engineer to assure the continuity of the business that is employing you. If that is not possible, you are in a dead end job.
+### Work as an engineer to assure the continuity of the business that is employing you. If that is not possible, you are in a dead end job.
 
 In general, it's considered normal for a software development engineer to work around 40 Hours a week even if they are salary. Anything more than that hints to a failure of the business leadership to plan correctly. So anything over that is a red flag at most places, because even if you are working as a salary employee, people should be doing the work needed to make sure that the work is sustainable and easy to do everyday, because otherwise you're going to drown in technical debt and the company will fail its operational business continuity eventually.
 
@@ -37,7 +37,7 @@ The goal of many of the best technical leaders and hiring managers is to have a 
 
 We do not advise engineering processes that are not sustainable or reliable; Hiring and retaining your team is one such thing that should always be as succinct and sustainable as possible.
 
-5. It is also generally held as true in the tech industry that if a software engineering manager does not have the technical leadership skills or abilities to run an interview without an illegal third party test that violates [https://en.wikipedia.org//wiki/Griggs_v._Duke_Power_Co.](https://en.wikipedia.org//wiki/Griggs_v._Duke_Power_Co.), or does not have the skills to requests an interview process without some kind of illegal free work project that violates minimal wage laws, then they themselves are probably in need of upskilling and may be too overly jr. for the title they have; But this is also a great place for new hiring managers to be, because it means that they've ust been presented with the opportunity to educate themselves on how to be a better hiring manager and technical leader, so that people can stop thinking of them as imposters.
+It is also generally held as true in the tech industry that if a software engineering manager does not have the technical leadership skills or abilities to run an interview without an illegal third party test that violates [https://en.wikipedia.org//wiki/Griggs_v._Duke_Power_Co.](https://en.wikipedia.org//wiki/Griggs_v._Duke_Power_Co.), or does not have the skills to requests an interview process without some kind of illegal free work project that violates minimal wage laws, then they themselves are probably in need of upskilling and may be too overly jr. for the title they have; But this is also a great place for new hiring managers to be, because it means that they've ust been presented with the opportunity to educate themselves on how to be a better hiring manager and technical leader, so that people can stop thinking of them as imposters.
 
 # In addition, Every Single One of the 50 States in the USA has its own laws that give you additional rights.
 
