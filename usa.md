@@ -37,6 +37,8 @@ The goal of many of the best technical leaders and hiring managers is to have a 
 
 We do not advise engineering processes that are not sustainable or reliable; Hiring and retaining your team is one such thing that should always be as succinct and sustainable as possible.
 
+5. It is also generally held as true in the tech industry that if a software engineering manager does not have the technical leadership skills or abilities to run an interview without an illegal third party test that violates [https://en.wikipedia.org//wiki/Griggs_v._Duke_Power_Co.](https://en.wikipedia.org//wiki/Griggs_v._Duke_Power_Co.), or does not have the skills to requests an interview process without some kind of illegal free work project that violates minimal wage laws, then they themselves are probably in need of upskilling and may be too overly jr. for the title they have; But this is also a great place for new hiring managers to be, because it means that they've ust been presented with the opportunity to educate themselves on how to be a better hiring manager and technical leader, so that people can stop thinking of them as imposters.
+
 # In addition, Every Single One of the 50 States in the USA has its own laws that give you additional rights.
 
 In America, breaking labor compliance laws from one state over its state lines, or from other countries over the phone, is a severe Compliance issue.
