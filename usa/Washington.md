@@ -34,6 +34,12 @@ As a result of not working with the hiring manager directly, they just won't hav
 
 Under the minimum wage law of the Washington state [https://app.leg.wa.gov/billsummary?BillNumber=1506&Year=2017](https://app.leg.wa.gov/billsummary?BillNumber=1506&Year=2017), It is illegal to ask people to do free work or unpaid work. And as a result, even though it was already illegal under Federal Minimum Wage law, there is an explicit law on the books in Washington state that makes project based interviews illegal. This was passed as a civil rights law to protect minority communities from being unfairly exploited, but everybody benefits from this rule.
 
+## Washington State Requires "Garden Leave" to enforce Non-Competes.
+
+Any company that does a layoff and tries to enforce a non compete agreement, also has to pay that employee their full salary during the entire time they wish to enforce that non compete agreement, and treat them like they are on paid time off the entire time they wany to enforce that non-compete, or the non compete agreement is null and void and unenforcable. [https://app.leg.wa.gov/rcw/default.aspx?cite=49.62&full=true#49.62.020](https://app.leg.wa.gov/rcw/default.aspx?cite=49.62&full=true#49.62.020).
+
+Opinion: Typically, companies do not like paying engineers their full annual salary as part of layoffs, So non compete agreements are never enforced in Washington because they're seen as too expensive to enforce under the law. In general, the Washington State Way is that it's far better to treat your employees with respect and integrity so that they do not want to compete with you.
+
 ## Washington state makes it explicitly illegal for companies to even ask to access your social media.
 
 Washington state has explicitly made it illegal for employers to ask to access your social media. It doesn't matter what the company wants to claim. There is no such thing as a company policy that allows this. You can find that law at [https://apps.leg.wa.gov/rcw/default.aspx?cite=49.44.200](https://apps.leg.wa.gov/rcw/default.aspx?cite=49.44.2000) Where it explicitly states that they cannot ask you to edit/remove/add posts, or even access your posts.And if they ask for your social media password, that is also explicitly illegal. If your boss accesses your social media without your consent, or steals your password, talk to a lawyer.
