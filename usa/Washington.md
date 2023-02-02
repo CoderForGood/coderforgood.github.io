@@ -1,16 +1,6 @@
 # Washington State.
 
-Opinion: Washington state is a very good state for software development engineers to live in and work from.
-
-
-# Washington state has a thriving tech hub.
-Washington state also sees growing its own tech sector as part of its own growth.
-
-This is largely in part because of the large tech hub composed of the Seattle, Tacoma, and Redmond Triangle, As the state has learned over time that it is in its own best interests to promote the fair hiring of software engineers to assure healthy tech companies that employ them fairly and ethically, in a sustainable way.
-
-## Washington state is a two party consent state.
-
-Washington law makes it explicitly illegal to record others without their consent, except in a few security specific cases that are generally not relevant for employment law. You can find that law at [https://app.leg.wa.gov/rcw/default.aspx?cite=9.73.030](https://app.leg.wa.gov/rcw/default.aspx?cite=9.73.030)
+Washington state has laws that change how recruiters are allowed to act.
 
 ## Washington state makes it illegal to lie if you work in recruiting, staffing, or HR. Even by omission.
 
@@ -29,6 +19,16 @@ Under the new pay transparency law that started as of 1/1/2023, it is not legal 
 So this is the law that has made offshore recruiters contacting people in Washington state to be fully illegal, because offshore recruiters based out of India or South America for example, can't legally comply with the WA state law that mandates they actually tell the person they're talking to what company they would be working for, what the job description would actually be, and how much they would be paid for that work, if its a contract or not, as is required by that law, so because their business model intentionally requires a lack of transparency that intentionally violates the pay transparency law of Washington state, they may not operate in Washington state.
 
 As a result of not working with the hiring manager directly, they just won't have the information they are legally required to present to candidates as part of Washington states pay transparency law when they contact them. And as a result of that, these offshore companies are not legally allowed to operate within Washington, because doing so while not presenting the pay rate and other required data actively violates the pay transparency law when the hiring agent does not have this data to present to the candidate.
+
+# Washington state has a thriving tech hub.
+Washington state also sees growing its own tech sector as part of its own growth.
+
+This is largely in part because of the large tech hub composed of the Seattle, Tacoma, and Redmond Triangle, As the state has learned over time that it is in its own best interests to promote the fair hiring of software engineers to assure healthy tech companies that employ them fairly and ethically, in a sustainable way.
+
+## Washington state is a two party consent state.
+
+Washington law makes it explicitly illegal to record others without their consent, except in a few security specific cases that are generally not relevant for employment law. You can find that law at [https://app.leg.wa.gov/rcw/default.aspx?cite=9.73.030](https://app.leg.wa.gov/rcw/default.aspx?cite=9.73.030)
+
 
 ## Washington state makes it explicitly illegal for companies to ask for project based interviews.
 
