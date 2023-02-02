@@ -13,6 +13,14 @@ New Jersey is known as a place where a lot international PBX phone relays are us
 
 These same relays are also used by scammers and con-artists based on our research and experience.
 
-So if you get a call from New Jersey about a tech job, it's probably not a real job. It's probably just an identity theft scam. Make sure you protect yourself.
+Make sure you protect yourself from the worst NJ has to offer.
 
 
+# Social Media Privacy Law
+
+NJ has a law against companies asking for or accessing your socia media. That law is at [https://lis.njleg.state.nj.us/nxt/gateway.dll?f=templates&fn=default.htm&vid=Publish:10.1048/Enu](https://lis.njleg.state.nj.us/nxt/gateway.dll?f=templates&fn=default.htm&vid=Publish:10.1048/Enu)
+
+# JN WARN Act
+
+The New Jersey has a business closing/mass layoff notification law (i.e., New Jersey’s mini-WARN Act), known
+officially as the “Millville Dallas Airmotive Plant Job Loss Notification Act,”. You can find that law at [https://lis.njleg.state.nj.us/nxt/gateway.dll?f=templates&fn=default.htm&vid=Publish:10.1048/Enu](https://lis.njleg.state.nj.us/nxt/gateway.dll?f=templates&fn=default.htm&vid=Publish:10.1048/Enu). The state act affords fewer exemptions to notice delays than does the federal WARN Act, and damages can be far steeper.
