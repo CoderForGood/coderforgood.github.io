@@ -17,7 +17,7 @@ coderforgood.github.io --> You
 
 # Important Legal Note
 
-Most of the people working on this project will not be lawyers, so you should assume that nobody working on this is an actual lawyer in any way, unless they have the credentials and explicitly call themselves out as explicitly being an actual lawyer who is registered in their state. In fact, please assume none of us are lawyers. That is just easier. No lawyers work on this, ok?
+You should assume that nobody working on this is an actual lawyer in any way, unless they have the credentials and explicitly call themselves out as explicitly being an actual lawyer who is registered in their state. In fact, please assume none of us are lawyers. That is just easier. No lawyers work on this, ok?
 
 The rest of us are are just going to be random people from the Internet with an interest in software and fair hiring practices.
 
