@@ -1,7 +1,9 @@
 
-# United States Of America
+# The United States Of America
 
 If you are an American citizen or have a green card in the United States of America, you have multiple kinds of rights under The Constitution of the United States and the laws of the federal government no matter what state you actually live in. These rights cannot be taken from you.
+
+To learn more check out [https://www.archives.gov/founding-docs/constitution-transcript](https://www.archives.gov/founding-docs/constitution-transcript)
 
 ## First: You have explicit rights under the laws of the Federal Government.
 
@@ -19,7 +21,13 @@ For states in America, the 10th Amendment of the Constitution of the United Stat
 
 ### Minimal Wage. The minimum wage laws protect you from being paid too little, but they also protect you in the interview process from doing unpaid work.
 
-For example, it's generally accepted as illegal for a company to ask for a free unpaid project of any kind as part of an interview loop, because it violates federal minimum wage laws. But chances are, you applied to that job because it doesn't pay minimum wage, and you probably used your states pay transparency law to validate that before you even applied so you knew you were not wasting your time. So if you're not going to work for minimum wage, why would you do the work for free? Don't let people abuse you.
+For example, it's generally accepted as illegal for a company to ask for a free unpaid project of any kind as part of an interview loop, because it violates federal minimum wage laws against unpaid "working interviews" that violate federal and state minimal wage laws. But chances are, you applied to that job because it doesn't pay minimum wage, and you probably used your states pay transparency law to validate that before you even applied so you knew you were not wasting your time. So if you're not going to work for minimum wage, why would you do the work for free? Don't let people abuse you.
+
+The Federal minimal wage laws in the United States ban unpaid work in interviews because free project based work was often abused against minorities or the poor, simply to keep them economically non-competitive as a tactic to intentionally discriminate against them unfairly, and so this is an extreme civil rights issue that the government actively protects its citizens from when you report it because it is very illegal to violate minimal wage laws.
+
+Fact: It is illegal to violate federal minimum wage laws in every state in the United States.
+
+Opinion: Anybody asking for a free project in an interview is actively trying to get around civil rights laws. They are intentionally trying to discriminate illegally in violation of federal discrimination laws and are problaby just asking you to do free work so they can ghost you after they get what they wanted out of you.
 
 ### American companies are required to follow human rights laws under the federal laws that bind the USA to international agreements enforcing them.
 
@@ -27,17 +35,23 @@ The World Health Organization has explicitly stated that working over 55 hours a
 
 ### In general, you should be as data driven as possible.
 
-As an engineer, you should be experienced enough in system design to be aware that any system or process that cannot be maintained with the resources granted to it will simply fail eventually Once the consumption of that resource interrupts the value engine that drives the system. The same is true of companies that under-staff. If you're working over 55 hours a week, then your team is critically understaffed and the business is simply not viable if it cannot afford to hire new people to ease that labor burden. It is thus logical and rational to accept that if you find yourself at a company that is intentionally overworking you and is also actively refusing to hire more people to ease the burden on your team, that your best option is to find a better job somewhere else.
+As an engineer, you should be experienced enough in system design to be aware that any system or process that cannot be maintained with the resources granted to it will simply fail eventually once the full consumption of that required resource interrupts the value engine that drives the system. The same is true of companies that under-staff. If you're working over 55 hours a week, then your team is critically understaffed and the business is simply not viable if it cannot afford to hire new people to ease that labor burden. It is thus logical and rational to accept that if you find yourself at a company that is intentionally overworking you and is also actively refusing to hire more people to ease the burden on your team, that your best option is to find a better job somewhere else.
 
 ### Work as an engineer to assure the continuity of the business that is employing you. If that is not possible, you are in a dead end job.
 
-In general, it's considered normal for a software development engineer to work around 40 Hours a week even if they are salary. Anything more than that hints to a failure of the business leadership to plan correctly. So anything over that is a red flag at most places, because even if you are working as a salary employee, people should be doing the work needed to make sure that the work is sustainable and easy to do everyday, because otherwise you're going to drown in technical debt and the company will fail its operational business continuity eventually.
+In general, it's considered normal for a software development engineer to work around 40 Hours a week even if they are salary. Anything more than that hints to a failure of the business leadership to plan correctly as the engineering leaderships demands are often ignored by bad business leadership. So anything over that is a red flag at most places, because even if you are working as a salary employee, people above you should be doing the work needed to make sure that the work is sustainable and supports the continuity of the business and that can only be done through support of the employees everyday, because otherwise you're going to drown in technical debt and the company will fail its operational business continuity eventually without them.
 
 The goal of many of the best technical leaders and hiring managers is to have a team that actually only needs slightly less (35-38) hours of work capacity a week than the team puts in, because that allows them to assign extra tasks throughout the week and deal with the extra stuff that always happens, as well as work on things that would otherwise create technical business debt or future work.  The answer to this is not to make people work longer, but instead to assure operational capacity is strategically aligned with business goals.
 
 We do not advise engineering processes that are not sustainable or reliable; Hiring and retaining your team is one such thing that should always be as succinct and sustainable as possible.
 
-It is also generally held as true in the tech industry that if a software engineering manager does not have the technical leadership skills or abilities to run an interview without an illegal third party test that violates [https://en.wikipedia.org//wiki/Griggs_v._Duke_Power_Co.](https://en.wikipedia.org//wiki/Griggs_v._Duke_Power_Co.), or does not have the skills to requests an interview process without some kind of illegal free work project that violates minimal wage laws, then they themselves are probably in need of upskilling and may be too overly jr. for the title they have; But this is also a great place for new hiring managers to be, because it means that they've ust been presented with the opportunity to educate themselves on how to be a better hiring manager and technical leader, so that people can stop thinking of them as imposters.
+### The interview process will help tell you if the hiring manager is worth working for.
+
+If the hiring manager doesn't have the technical leadership skills to hire without asking you to do an illegal free project, or depends on outside third oarties to do their job, that is a red flag that the hiring manager may be too junior to manage a team effectively.
+
+It can show the company doesn't care about that gap in leadership enough to do anything to fix it. If that happens, you may be interviewing for a role with a boss that may limit your career growth simply to advance their own.
+
+It is also generally held as true in the tech industry that if a software engineering manager does not have the technical leadership skills or abilities to run an interview without an illegal third party test that violates [https://en.wikipedia.org//wiki/Griggs_v._Duke_Power_Co.](https://en.wikipedia.org//wiki/Griggs_v._Duke_Power_Co.), or does not have the skills to requests an interview process without some kind of illegal free work project that violates federal or state minimal wage laws, then they themselves are probably in need of upskilling and may be too overly jr. for the title they already have; But this is also a great place for new hiring managers to be, because it means that they've ust been presented with the opportunity to educate themselves on how to be a better hiring manager and technical leader, so that people can stop thinking of them as imposters.
 
 # In addition, Every Single One of the 50 States in the USA has its own laws that give you additional rights.
 
@@ -46,6 +60,7 @@ In America, breaking labor compliance laws from one state over its state lines, 
 Opinion: HR professionals don't like the compliance rules they have to follow, and they will often claim to be ignorant of them as an excuse for violating them. If you ever hear a hiring person on the phone say that they have never heard of one of these laws, then they are either very inexperienced or are explicitly lying to you, and you will probably be able to hear that in their voice as they say it.
 
 This page exists so that you have something to link to, so that you can educate them.
+
 
 # The 50 States in the USA
 
