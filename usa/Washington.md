@@ -42,7 +42,7 @@ Opinion: Typically, companies do not like paying engineers their full annual sal
 
 ## Washington state makes it explicitly illegal for companies to even ask to access your social media.
 
-Washington state has explicitly made it illegal for employers to ask to access your social media. It doesn't matter what the company wants to claim. There is no such thing as a company policy that allows this. You can find that law at [https://apps.leg.wa.gov/rcw/default.aspx?cite=49.44.200](https://apps.leg.wa.gov/rcw/default.aspx?cite=49.44.2000) Where it explicitly states that they cannot ask you to edit/remove/add posts, or even access your posts.And if they ask for your social media password, that is also explicitly illegal. If your boss accesses your social media without your consent, or steals your password, talk to a lawyer.
+Washington state has explicitly made it illegal for employers to ask to access your social media. It doesn't matter what the company wants to claim. There is no such thing as a company policy that allows this. You can find that law at [https://apps.leg.wa.gov/rcw/default.aspx?cite=49.44.200](https://apps.leg.wa.gov/rcw/default.aspx?cite=49.44.200) Where it explicitly states that they cannot ask you to edit/remove/add posts, or even access your posts.And if they ask for your social media password, that is also explicitly illegal. If your boss accesses your social media without your consent, or steals your password, talk to a lawyer.
 
 ## Notes
 
