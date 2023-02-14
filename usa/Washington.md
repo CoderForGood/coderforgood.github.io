@@ -25,6 +25,10 @@ Washington state also sees growing its own tech sector as part of its own growth
 
 This is largely in part because of the large tech hub composed of the Seattle, Tacoma, and Redmond Triangle, As the state has learned over time that it is in its own best interests to promote the fair hiring of software engineers to assure healthy tech companies that employ them fairly and ethically, in a sustainable way.
 
+## The burden of proof is on Washington employers to prove that a credit report is needed for employment.
+
+Under RCW [https://apps.leg.wa.gov/rcw/default.aspx?cite=19.182.020]{https://apps.leg.wa.gov/rcw/default.aspx?cite=19.182.020), employers cannot request applicants' credit reports unless they can prove its legal.
+
 ## Washington state is a two party consent state.
 
 Washington law makes it explicitly illegal to record others without their consent, except in a few security specific cases that are generally not relevant for employment law. You can find that law at [https://app.leg.wa.gov/rcw/default.aspx?cite=9.73.030](https://app.leg.wa.gov/rcw/default.aspx?cite=9.73.030)
