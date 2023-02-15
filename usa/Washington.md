@@ -27,7 +27,11 @@ This is largely in part because of the large tech hub composed of the Seattle, T
 
 ## The burden of proof is on Washington employers to prove that a credit report is needed for employment.
 
-Under RCW [https://apps.leg.wa.gov/rcw/default.aspx?cite=19.182.020]{https://apps.leg.wa.gov/rcw/default.aspx?cite=19.182.020), employers cannot request applicants' credit reports unless they can prove its legal.
+Under RCW [https://apps.leg.wa.gov/rcw/default.aspx?cite=19.182.020](https://apps.leg.wa.gov/rcw/default.aspx?cite=19.182.020), employers cannot request applicants' credit reports unless they can prove its legal.
+
+## Washington doesn't allow companies to request assignment of employyes personal inventions to themselves.
+
+In Washington state, any employment agreement that asks for the company to require the employee to assign all of their inventions and so forth to the company is unenforcable per [https://app.leg.wa.gov/RCW/default.aspx?cite=49.58.110](https://app.leg.wa.gov/RCW/default.aspx?cite=49.58.110)
 
 ## Washington state is a two party consent state.
 
